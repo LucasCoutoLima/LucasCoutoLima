@@ -20,7 +20,7 @@ Projetos realizados de Machine Learning:
 Projetos realizados de Processamento de Linguagem Natural (NLP):
 * Construção de um sistema RAG combinando busca e LLMs
 * Fine Tuning de LLMs com LoRA
-* Engenharia de Prompt usando Llama 3.1 com API da Groq
+* Engenharia de Prompt usando Llama 3.1 via API da Groq
 * Implementação do modelo GPT-2 da OpenAI
 * Implementação do modelo BERT da Google
 * Implementação do mecanismo de auto-atenção dos transformers

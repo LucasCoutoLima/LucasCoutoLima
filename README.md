@@ -14,8 +14,7 @@ Redes Adversárias Generativas e Classificação de falhas com redes neurais e r
 
 Projetos realizados de Machine Learning:
 * Modelos de regressão linear para predição de séries temporais
-* Modelos de classificação para reconhecimento de atividades humanas, explorando a importância do
-pré-processamento e extração de atributos
+* Modelos de classificação para reconhecimento de atividades humanas
 * Redes neurais MLP e CNN para reconhecimento de células sanguíneas periféricas em imagens
 
 Projetos realizados de Processamento de Linguagem Natural (NLP):
